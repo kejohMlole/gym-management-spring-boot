@@ -2,7 +2,7 @@
 
 The Gym Membership System is a Spring Boot–based RESTful application developed to manage gym members, trainers, classes, memberships, and enrollments. The project demonstrates the use of Spring Boot, Spring Data JPA, and REST APIs while following a clean layered architecture. It supports full CRUD operations, entity relationships, custom queries, environment-based configuration using Spring Profiles, and application monitoring using Spring Boot Actuator.
 
-🛠️ Tech Stack-Java
+ Tech Stack-Java
 
 Spring Boot
 
@@ -16,7 +16,7 @@ Maven
 
 Spring Boot Actuator
 
-🏗️ Project Architecture
+ Project Architecture
 **PROJECT ARCHITECTURE**B  
 
 
@@ -89,7 +89,7 @@ The active profile can be changed using JVM options:
 
 -Dspring.profiles.active=prod
 
-📊 Spring Boot Actuator
+Spring Boot Actuator
 
 Spring Boot Actuator is enabled to monitor application health and metrics.
 
@@ -109,7 +109,7 @@ To run using the production profile:
 mvn spring-boot:run -Dspring-boot.run.profiles=prod
 
 
-👤 Author
+ Author
 
 Kenneth (Kejoh)
 Computer Science & Engineering
